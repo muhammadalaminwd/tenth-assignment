@@ -13,7 +13,7 @@ const teachers = [
 
 const Teachers = () => {
     return (
-        <div id='teachers' className='container'>
+        <div id='teachers' className='container '>
             <h2 className='our-teachers text-center mt-5'>OUR TEACHERS</h2>
             <div className="row">
             {
