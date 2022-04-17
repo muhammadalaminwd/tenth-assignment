@@ -2,8 +2,7 @@ import React from "react";
 import "./Footer.css";
 
 const Footer = () => {
-  const today = new Date();
-  const year = today.getFullYear();
+
   return (
     <footer className="bg-dark">
       <div className="mt-5 pt-5 pb-5 footer">

@@ -6,7 +6,7 @@ import teacher3 from '../../../../images/images/teachers/teacher-3.jpg'
 import Teacher from '../../Home/Teacher/Teacher';
 
 const teachers = [
-    {id: 1, name: 'Muhammad Al Amin', img: teacher1 , aboutme: 'I am your Math, English and Programming teacher. Teaching is my passion. I love to learn new things and share my knowledge with my students.'},
+    {id: 1, name: 'Muhammad Al Amin', img: teacher1 , aboutme: 'I will be your Math, English and Programming teacher. Teaching is my passion. I love to learn new things and share my knowledge with my students.'},
     {id: 2, name: 'Sagor Islam', img: teacher2, aboutme: 'I am your History and Science teacher. I love to teach history and science. My teaching style will astonished you.'},
     {id: 3, name: 'Chris rock', img: teacher3, aboutme: 'Hey guys, your Accounting teacher is here. My first love is Accounging. Life should be balanced like debit and credit.'}
 ]
