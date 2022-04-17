@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "MATHEMATICS",
+        "coursePrice": "1500 Tk",
+        "description": "We will teach you mathmatics carely. You will understand every chapter on the book and will get A+ inshaAllah",
+        "img": "https://i.ibb.co/16FtFt1/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "English",
+        "coursePrice": "1100 Tk",
+        "description": "English will be piece of cake for you. Our best English teacher will teach you grammar like a native English learner.",
+        "img": "https://i.ibb.co/YptVD35/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Programming",
+        "coursePrice": "2250 Tk",
+        "description": "This course will provide you best programming tutorials. We make videos to teach programming practically.",
+        "img": "https://i.ibb.co/0nGBLQN/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "History",
+        "coursePrice": "780 Tk",
+        "description": "History is interesting when you learn it not by memorizing. We will teach you how to learn history by listening our story.",
+        "img": "https://i.ibb.co/zJbyZ3q/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Science",
+        "coursePrice": "1000 Tk",
+        "description": "Wanna be scientist? Just enroll this course. You will know the basics of science from this course.",
+        "img": "https://i.ibb.co/2YBtf6p/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Accounting",
+        "coursePrice": "800.00 Tk",
+        "description": "Wanna be millionaire? Wanna count your lots of dollars? Just enroll this course. We will teach you how to calculate your money.",
+        "img": "https://i.ibb.co/NFKftwm/6.jpg"
+    }
+]
