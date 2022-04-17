@@ -1,7 +1,7 @@
 import React from "react";
 
-const Expert = ({ expert }) => {
-  const { name, img, aboutme } = expert;
+const Teacher = ({ teacher }) => {
+  const { name, img, aboutme } = teacher;
   return (
     <div className="g-5 gx-5 col-sm-12 col-md-6 col-lg-4">
       <div className="card" style={{ width: "18rem" }}>
@@ -20,4 +20,4 @@ const Expert = ({ expert }) => {
   );
 };
 
-export default Expert;
+export default Teacher;

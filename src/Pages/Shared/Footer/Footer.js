@@ -11,28 +11,40 @@ const Footer = () => {
           <div className="row">
             <div className="col-lg-5 col-xs-12 about-company">
               <p className="pr-5 text-white-50">
-                Let's make your study fun with your virtual teachers. We can provide you the best teaching service. Our teachers will care you 24/7. So enroll now!
+                Let's make your study fun with your virtual teachers. We can
+                provide you the best teaching service. Our teachers will care
+                you 24/7. So enroll now!
               </p>
             </div>
             <div className="col-lg-3 col-xs-12 links">
               <ul className="m-0 p-0 text">
                 <li>
-                  - <a class="text-decoration-none" href="/services">Services</a>
+                  <a
+                    class="text-decoration-none text-light"
+                    href="/home#services"
+                  >
+                    Services
+                  </a>
                 </li>
                 <li>
-                  - <a class="text-decoration-none" href="#">Nam mauris velit</a>
+                  <a class="text-decoration-none text-light" href="/home#teachers">
+                    Teachers
+                  </a>
                 </li>
                 <li>
-                  - <a class="text-decoration-none" href="#">Etiam vitae mauris</a>
+                  <a class="text-decoration-none text-light" href="/blogs">
+                    Blogs
+                  </a>
                 </li>
                 <li>
-                  - <a class="text-decoration-none" href="#">Fusce scelerisque</a>
+                  <a class="text-decoration-none text-light" href="/about">
+                    About
+                  </a>
                 </li>
                 <li>
-                  - <a class="text-decoration-none" href="#">Sed faucibus</a>
-                </li>
-                <li>
-                  - <a class="text-decoration-none" href="#">Mauris efficitur nulla</a>
+                  <a class="text-decoration-none text-light" href="/login">
+                    Login
+                  </a>
                 </li>
               </ul>
             </div>
