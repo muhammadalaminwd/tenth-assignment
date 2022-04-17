@@ -19,12 +19,12 @@ const Header = () => {
           <Navbar.Brand as={Link} to="/">
           <img src={logo} alt="" height={40}/>
           </Navbar.Brand>
-          <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+          <Navbar.Toggle className="bg-light" aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="me-auto">
               <Nav.Link className="bg-white m-2" href="home#services">SERVICES</Nav.Link>
               <Nav.Link className="bg-white m-2" href="home#experts">TEACHERS</Nav.Link>
-              <Nav.Link className="bg-white m-2" href="home#login">ENROLL</Nav.Link>
+              <Nav.Link className="bg-white m-2" as={Link} to="/blogs">BLOGS</Nav.Link>
             </Nav>
             <Nav>
               <Nav.Link className="bg-white m-2" as={Link} to="/about">ABOUT</Nav.Link>
