@@ -52,7 +52,7 @@ const Register = () => {
             <input type="email" name="email" id="" placeholder='Email Address' required/>
             <input type="password" name="password" id="" placeholder='Password' required/>
             <input onClick={() => setAgree(!agree)} type="checkbox" name="terms" id="terms" />
-            <label className={agree ? 'ps-2 text-primary' : 'ps-2 text-danger'} htmlFor="terms">Accept Genius car terms and conditions</label>
+            <label className={agree ? 'ps-2 text-primary' : 'ps-2 text-danger'} htmlFor="terms">Accept Our terms and conditions</label>
 
             <input disabled={!agree} className='w-50 mx-auto btn btn-primary mt-2' type="submit" value="Register" />
 
