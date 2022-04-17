@@ -39,15 +39,15 @@ const SocialLogin = () => {
         <button
         onClick={() => signInWithGoogle()}
         
-        className="btn btn-info w-50 d-block mx-auto my-2">
+        className="btn w-50 d-block mx-auto my-2">
         <img style={{width: '30px'}} src={googlelogo} alt="" />
         <span className="px-2">Google Sign In</span>
         </button>
-        <button onClick={() => signInWithGithub()} className="btn btn-info w-50 d-block mx-auto my-2">
+        <button onClick={() => signInWithGithub()} className="btn w-50 d-block mx-auto my-2">
         <img style={{width: '30px'}} src={facebooklogo} alt="" />
         <span className="px-2">Facebook Sign In</span>
         </button>
-        <button onClick={() => signInWithGithub()} className="btn btn-info w-50 d-block mx-auto">
+        <button onClick={() => signInWithGithub()} className="btn w-50 d-block mx-auto">
         <img style={{width: '30px'}} src={githublogo} alt="" />
         <span className="px-2">Github Sign In</span>
         </button>
