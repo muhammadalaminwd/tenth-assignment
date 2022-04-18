@@ -77,7 +77,7 @@ const resetPassword = async() => {
       </Form>
       {errorElement}
       <p>Are you new here? <Link to="/register" className="text-primary pe-auto text-decoration-none" onClick={navigateRegister}>Please Register</Link></p>
-      <p>Forget Password <button className="btn btn-link pe-auto text-decoration-none" onClick={resetPassword}>Reset Password</button></p>
+      <p>Forget Password? <button className="btn btn-link pe-auto text-decoration-none" onClick={resetPassword}>Reset Password</button></p>
       <SocialLogin></SocialLogin>
       <ToastContainer />
     </div>

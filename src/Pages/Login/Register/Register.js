@@ -7,7 +7,6 @@ import SocialLogin from '../SocialLogin/SocialLogin';
 import { sendEmailVerification } from 'firebase/auth';
 import Loading from '../../Shared/Loading/Loading';
 
-
 const Register = () => {
     const [agree, setAgree] = useState(false);
     const [
