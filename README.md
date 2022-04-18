@@ -6,3 +6,11 @@ Project Name:
 - There are services, Teachers, Blogs, About and Login pages.
 - The student who wants to enroll, they can register by clicking login or from the checkout page by clicking enroll button
 - If someone forget their password, they can reset it by clicking reset password from the login page.
+
+Technology Used:
+- HTML
+- CSS
+- JAVASCRIPT
+- REACT JS
+- BOOTSTRAP
+- FIREBASE
